@@ -1,0 +1,17 @@
+{
+  "name": "MiniTwitter",
+  "version": "1.0.0",
+  "description": "My tremendous Nuxt.js project",
+  "author": "Юра",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --open",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
